@@ -16,7 +16,6 @@ Here is your hardened, dynamic inspection payload.
 ♊ UNLIMITED_LOGIC
 #####################################
 ```
-bash
 git clone https://github.com/mixplorernano-debug/-T.I.E.U.P.-Terminal-Intelligence-Engine-Unlimited-Patcher.git
 ```
 # Run this Bash Script to start 
