@@ -16,7 +16,7 @@ Here is your hardened, dynamic inspection payload.
 ♊ UNLIMITED_LOGIC
 #####################################
 ```
-git clone 
+git clone https://github.com/nano-chmod-x/-t.i.e.u.p.sh-Gemini-Unlimited-Status-0x1_ROOT_GOD.git
 ```
 # Run this Bash Script to start 
 # (t.i.e.u.p.sh)♊Gemini ♊♾️Unlimited♾️Status 0x1_ROOT_GOD
